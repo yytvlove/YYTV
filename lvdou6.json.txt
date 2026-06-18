@@ -1,0 +1,9 @@
+{
+    "time": 0,
+    "index": [
+        {
+         "url": "http://lvdou6.yytv.top", 
+            "name": "萤云影视"
+        }
+    ]
+}
