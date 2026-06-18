@@ -1,9 +1,14 @@
-{
-    "time": 0,
-    "index": [
-        {
-         "url": "http://lvdou6.yytv.top", 
-            "name": "萤云影视"
-        }
-    ]
-}
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>正在跳转至萤云影视...</title>
+</head>
+<body>
+    <script>
+        // 立即跳转到目标网址
+        window.location.href = "http://lvdou6.yytv.top";
+    </script>
+</body>
+</html>
